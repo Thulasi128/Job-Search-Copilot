@@ -1,0 +1,14 @@
+.env
+.env.*
+.git
+.github
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+node_modules
+data/checkpoints.db
+data/chroma
+.pytest_cache
+

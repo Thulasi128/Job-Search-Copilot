@@ -1,0 +1,24 @@
+Company: CloudWave Systems
+Position: Full Stack Software Engineering Intern
+Location: Austin, TX
+Duration: 3 months internship (Summer 2025)
+
+About the Role:
+CloudWave Systems is seeking an enthusiastic Software Engineering Intern to join our developer tooling team. You will build and scale cloud-native web applications, contribute to responsive user interfaces, and collaborate with experienced engineers on distributed systems.
+
+Key Responsibilities:
+• Build modern frontend dashboards and collaboration interfaces using React and modern component libraries.
+• Develop robust backend microservices and RESTful API endpoints utilizing Python and Node.js.
+• Work with document databases like MongoDB to design performant query aggregations and schemas.
+• Containerize application services using Docker and integrate automated test suites into CI/CD pipelines.
+
+Required Qualifications:
+• Currently enrolled in a Bachelor's or Master's program in Computer Science, Software Engineering, or related field.
+• Hands-on programming experience with Python and JavaScript / TypeScript.
+• Solid working knowledge of React frontend development and Node.js backend services.
+• Practical understanding of Docker containers and relational or NoSQL databases such as MongoDB or PostgreSQL.
+
+Preferred Qualifications:
+• Familiarity with FastAPI or modern asynchronous Python frameworks.
+• Knowledge of Git version control and GitHub Actions workflows.
+

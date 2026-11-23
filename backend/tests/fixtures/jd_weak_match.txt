@@ -1,0 +1,24 @@
+Company: Quantum Micro-Circuits
+Position: Embedded Systems & Firmware Engineer Intern
+Location: San Jose, CA
+Duration: 6 months
+
+About the Opportunity:
+Quantum Micro-Circuits pioneers high-frequency hardware accelerators and embedded sensor interfaces for aerospace applications. We are seeking an Embedded Systems Intern with deep low-level hardware and microcontroller programming experience.
+
+Key Responsibilities:
+• Write bare-metal firmware drivers for ARM Cortex-M microcontrollers and RISC-V processors in C and assembly.
+• Design, synthesize, and verify digital logic cores on Xilinx FPGAs using Verilog and VHDL.
+• Debug low-level timing constraints using digital storage oscilloscopes, logic analyzers, and JTAG hardware probes.
+• Maintain real-time operating system (FreeRTOS) task schedulers and interrupt service routines.
+
+Required Qualifications:
+• Enrolled in Electrical Engineering, Computer Engineering, or related degree.
+• Proficient in C, C++, Verilog, RTOS, and Assembly programming.
+• Experience with FPGA synthesis, timing closure, and hardware debugging.
+• Understanding of serial protocols: SPI, I2C, CAN bus, UART.
+
+Preferred Qualifications:
+• Hands-on experience with Altium Designer for schematic capture and multi-layer PCB layout.
+• Familiarity with RF circuit testing and thermal simulation.
+

@@ -1,0 +1,42 @@
+# Environment variables
+.env
+
+# Data and uploads
+data/
+uploads/
+exports/
+
+# Python virtual environments & bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Vector database local storage & Checkpoints
+.chroma/
+*.db
+*.sqlite
+*.sqlite3
+checkpoints.db
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+build/
+.vite/
+frontend/.vite/
+
+# Operating system & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

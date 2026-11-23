@@ -1,0 +1,20 @@
+Company: Vintage Web Media
+Position: Web Maintenance Intern
+Location: Chicago, IL
+Duration: 8 months co-op program
+
+Overview:
+Vintage Web Media manages and maintains content delivery portals and legacy web properties for regional publishing clients. We are looking for a dedicated intern for an extended 8-month co-op placement to assist our digital operations department.
+
+Day-to-day Responsibilities:
+• Maintain and patch legacy server scripts written in PHP and jQuery across dozens of client blogs.
+• Update layout CSS stylesheets and HTML content templates for weekly editorial releases.
+• Troubleshoot FTP deployments and maintain Apache web server configuration files.
+• Assist client support staff with minor bug fixes and database backup verifications.
+
+Candidate Profile & Experience:
+• Familiarity with PHP, jQuery, CSS, and HTML web fundamentals.
+• Willingness to commit to a full 8-month consecutive duration schedule in our downtown Chicago office.
+• Strong written communication and troubleshooting skills for resolving client issue tickets.
+• Basic understanding of web servers and domain administration.
+
